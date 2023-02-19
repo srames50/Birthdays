@@ -1,4 +1,5 @@
 # Birthdays
+
 Program flow:
 The program starts by asking the user for the current date (month and day). It then calculates the current day of the year using the dayCount method. After that, the program prompts the user for the birthdates of two persons, and calculates the day of the year for each birthdate using the dayCount method. It also calculates the number of days until the next birthday for each person using the daysTill method.
 
