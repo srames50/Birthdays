@@ -1,4 +1,3 @@
-// CS210 Assignment #4 "Birthdays"
 // Shyam Ramesh
 
 import java.util.*;
