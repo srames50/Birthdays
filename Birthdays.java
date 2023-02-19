@@ -37,7 +37,7 @@ public class Birthdays {
        System.out.println(" ");
        
        // fun fact
-       System.out.println("Did you know: On December 18th in 1865, by proclamation of the U.S. secretary of state slavery was outlawed.");
+       System.out.println("Did you know: On December 18th Shyam Ramesh was born!");
        
     }
 
